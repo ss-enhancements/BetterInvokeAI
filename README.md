@@ -2,6 +2,10 @@
 
 ![project hero](https://github.com/invoke-ai/InvokeAI/assets/31807370/6e3728c7-e90e-4711-905c-3b55844ff5be)
 
+# Forked from Original for Bug fixing..
+
+--------
+
 # Invoke - Professional Creative AI Tools for Visual Media
 
 #### To learn more about Invoke, or implement our Business solutions, visit [invoke.com]
